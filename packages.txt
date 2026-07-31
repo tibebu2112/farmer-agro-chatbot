@@ -1,2 +1,0 @@
-# packages.txt - required by Streamlit Cloud for audio/voice (ffmpeg)
-ffmpeg
